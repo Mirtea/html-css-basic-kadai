@@ -1,0 +1,27 @@
+html {
+  font-size: 20px;
+}
+body {
+  font-family: "Arial", "Meiryo", sans-serif;
+  text-align: center;
+}
+h1 {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 2rem;
+  letter-spacing: 1.2em;
+  text-shadow: #dcdcdc 2px 2px 2px;
+  border-bottom: rgb(115, 115, 114) 3px solid;
+}
+
+/* フォントカラー指定 */
+.blue {
+  color: skyblue;
+}
+.pink {
+  color: rgb(255, 192, 203);
+}
+
+/* 太字指定 */
+#basic > p {
+  font-weight: bold;
+}
